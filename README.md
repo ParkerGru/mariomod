@@ -1,0 +1,2 @@
+# mariomod
+mario mod FNF
